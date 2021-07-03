@@ -87,10 +87,10 @@ header img{
 }
 .header--button span{
     display: inline-block;
-    width: 18px;
-    height: 16px;
+    width: 24px;
+    height: 18px;
     margin-left: 10px;
-    background-image: url('/assets/icons/mdi_keyboard_arrow_down.svg');
+    background-image: url('assets/icons/mdi_keyboard_arrow_down.svg');
 }
 main{
     width: 100%;
