@@ -251,7 +251,7 @@ main{
     height: 25px;
     top: -12px;
     left: calc(50% - 20px);
-    background-image: url('assets/icons/group16.svg');
+    background-image: url('assets/icons/group17.svg');
 }
 .product-detail--title{
     width: 90%;
@@ -293,8 +293,8 @@ main{
 }
 .product-detail--card .clock{
     display: inline-block;
-    width: 40px;
-    height: 40px;
+    width: 20px;
+    height: 20px;
     margin-bottom: 10px;
     background-image: url('assets/icons/clock1.svg');
     background-size: cover;
