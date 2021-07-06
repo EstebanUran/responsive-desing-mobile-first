@@ -251,7 +251,7 @@ main{
     height: 25px;
     top: -12px;
     left: calc(50% - 20px);
-    background-image: url('assets/icons/Group16.svg');
+    background-image: url('assets/icons/group16.svg');
 }
 .product-detail--title{
     width: 90%;
